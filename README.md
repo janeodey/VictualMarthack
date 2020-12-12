@@ -5,3 +5,5 @@ VictualMart is a mobile application which bridges the gap between farmers and bu
 Link to demo video -    https://www.youtube.com/watch?v=4kxRNEk-2ak&feature=youtu.be
 
 Link to pitch deck - https://drive.google.com/file/d/1Sf0Fgpw3m8qEnCbLj3VWLGsQEzIxbr_v/view?usp=sharing
+
+Link to app source code - https://drive.google.com/file/d/1auT8hJIET71VB5IG2tdKRQXTdGhOPlqe/view?usp=sharing
